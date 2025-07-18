@@ -14,7 +14,7 @@ This repo was made to document my learning journey and also maybe to help you:
 
 | File | Description |
 |------|-------------|
-| [`osint-intro.md`](./osint-intro.md) | Introduction to OSINT and the Intelligence Lifecycle |
+| [`osint-intro.md`](01-osint-intro.md) | Introduction to OSINT and the Intelligence Lifecycle |
 | `tools.md` | Curated OSINT tools (usernames, emails, domains, etc.) |
 | `methodologies.md` | Step-by-step playbooks and workflows |
 | `case-studies/` | Practical investigation examples and walkthroughs |
