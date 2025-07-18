@@ -52,6 +52,29 @@ You can go extreme on anonymity (see Michael Bazzell’s book *Hiding from the I
 
 ---
 
+## 🧰 Helpful Tools for Building Sock Puppets
+
+Here are some excellent websites to help create and maintain a convincing fake identity (sock puppet) for OSINT investigations:
+
+### 🔹 [Fake Name Generator](https://www.fakenamegenerator.com/)
+Generates a complete fake identity—including name, address, phone number, SSN, credit card, occupation, and more—based on nationality and gender. Perfect for building a backstory. 📄
+
+---
+
+### 🔹 [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
+Creates realistic AI-generated human faces with no real-world match. Great for profile pictures that won't trigger reverse image lookups. 🧑‍💼
+
+---
+
+### 🔹 [Privacy.com](https://www.privacy.com/)
+Lets you create burner virtual debit cards to mask real financial transactions. Useful for signup verification or separating purchases related to sock activities. 💳
+
+---
+
+🧠 *Always use these tools ethically. Your sock should protect your identity—not harm others or mislead people maliciously.*
+
+---
+
 # The Art Of The Sock  
 *By Guise Bule*
 
