@@ -2,7 +2,7 @@
 
 Welcome to my **OSINT Playbook** — my personal collection of notes, strategies, tools, and guides for conducting **Open-Source Intelligence (OSINT)** investigations.
 
-This repo is to document my learning journey and also maybe to help you:
+This repo was made to document my learning journey and also maybe to help you:
 - Understand core OSINT concepts and processes
 - Document methodologies and case studies
 - Track and categorize useful tools
